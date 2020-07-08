@@ -1,0 +1,90 @@
+Task 1
+*****Understanding Cloud Computing*****
+Prepare a high-level overview of Cloud Computing for a client meeting.
+
+Here is the background information on your task
+One of our clients, a large Australian university, is planning its IT portfolio spend over the next 5 years. The University currently runs 350 applications to maintain its services to students, researchers and staff.  They are considering a wide variety of solutions and platforms to meet their needs with their innovation team raising Cloud as a potential option. 
+
+The client has set up an initial meeting with Deloitte and has invited key stakeholders from both IT and the business. The objective of the meeting is to gain a deeper understanding of Cloud and assess if this aligns with their vision and technology portfolio.
+
+Here is your task
+Matt, your Director on this engagement, has asked you to help prepare a PowerPoint slide on the fundamentals of Cloud that will be presented during the initial meeting. He has asked you to have a think about what content to cover, including: 
+
+Defining Cloud – what is Cloud Computing and what does it mean to this client? 
+Cloud Characteristics – what are some of the key characteristics of Cloud? 
+Cloud Capabilities – what could Cloud be used for in the context of the University? 
+The expected output is one PowerPoint covering the following: 
+
+A brief definition of what Cloud Computing is
+5 of the key characteristics of Cloud; and
+Some of the capabilities offered by Cloud. 
+You may wish to use the PowerPoint template provided, or get creative and make one of your own.
+
+The following articles and websites may help you in understanding and defining Cloud: 
+
+https://aws.amazon.com/what-is-cloud-computing/ 
+https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/ 
+https://cloud.google.com/what-is-cloud-computing/ 
+-----------------------------------------------------------------------------------------------------
+Task 2
+*****Cloud Feasibility Assessment*****
+Advise the client on the benefits, risks and considerations for transitioning to Cloud.
+Here is the background information on your task
+Thank you for your help in getting the content for our first meeting across the line. The University Innovation team and IT leadership now have a much greater understanding of what Cloud Computing is and they really feel like the correct use of Cloud could help to alleviate some of the challenges they have been facing to date.
+
+Whilst excited by the prospects, the team is also mindful of the scale and nature of the transformation and are concerned that the shift to Cloud introduces a large amount of change, and risk into a very traditional IT environment.
+
+Detailed below are a number of key facts about the University IT portfolio:
+
+High level of seasonality in IT use with some systems reaching peak capacities during enrolment
+Application downtime is prominent during peak periods
+A number of major legacy applications are in place
+A desire to provide access to external SaaS applications
+A number of applications are overprovisioned, typically using less than 40% of the capacity (compute, storage, memory) that they have allocated
+
+3
+Here is your task
+To help bring them along on the journey, could you help us prepare a slide to outline and justify the benefits of a transition to Cloud and provide an overview of some of the risks and considerations that the University will need to start thinking about. 
+
+In putting this together, you may want to consider how Cloud adoption relates to some of the challenges that the University highlighted in their initial context and background as well as the characteristics that you identified previously. As for risks and considerations, there are a number of case studies around Cloud adoption published by Cloud Service Providers such as Amazon Web Services, Microsoft Azure and Google.
+
+Summarise your findings in two PowerPoint slides with the following headings: 
+
+Cloud Benefits
+Cloud Risks and Considerations
+You may wish to use the PowerPoint template provided, or get creative and make one of your own.
+
+The following articles and websites may help you in identifying benefits, risks and considerations for moving to Cloud: 
+
+https://www2.deloitte.com/au/en/pages/deloitte-private/articles/cloud-computing-deloitte-private.html 
+https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/risk/deloitte-uk-maintaining-control-in-the-cloud.pdf (Page 21)
+https://aws.amazon.com/professional-services/CAF/
+-----------------------------------------------------------------------------------------------------
+Task 3
+*****Cloud Readiness Assessment*****
+Conduct an analysis and recommend which applications are suitable for transitioning to Cloud.
+Here is the background information on your task
+Thanks again for putting together those benefits, risks and considerations. The second round of presentations with the University IT Leadership team went well. 
+
+Whilst remaining aware of the risks you identified, they feel like the benefits and uplift to their environment is well justified. As a result, the team have decided to run a Proof of Concept or POC. A POC is a typical activity that our clients engage us for to test if their applications could run successfully in the Cloud and prove the art of what’s possible.
+
+
+3
+Here is your task
+The team is unsure of which 5 applications to select for their POC and have asked us for assistance in conducting a Cloud readiness assessment. Could you help to develop a slide with criteria that indicates whether an application would be suitable for Cloud or not? Heya has already put together a few criteria to help get you started. You can find these in the template provided.  
+
+Once you have the criteria developed, could you apply these against the list of applications the University has provided to identify and prioritise the applications you would recommend for the POC?
+
+Thanks again for your help.
+
+Please present your findings on two PowerPoint slides with the following headings: 
+
+Criteria that makes an application suitable for Cloud
+Prioritised list of applications and a brief justification as to why you would prioritise these applications. 
+You may wish to use the PowerPoint template provided, or get creative and make one of your own.
+
+The following articles and websites may help you in identifying benefits, risks and considerations for moving to Cloud: 
+
+https://deloitte.wsj.com/cio/2012/06/22/4-criteria-for-determining-which-applications-to-put-in-the-cloud/
+https://www.ibm.com/blogs/cloud-computing/2012/11/30/clouduitability-suitability-assessment-of-applications-in-cloud/ 
+https://cloud.google.com/what-is-cloud-computing/ 
